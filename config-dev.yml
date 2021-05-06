@@ -1,3 +1,3 @@
 config: 
-  info: 这是一个测试用config信息,这里放置配置参数数据
+  info: this is a test page config info,bug this can place some configuration data;
   version: 1.0
